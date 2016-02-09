@@ -1,2 +1,5 @@
-# coderbyte
-Several problems from Coderbyte solved using JavaScript
+#Coderbyte
+
+####by Arun Vasudevan
+
+Various problems from Coderbyte solved using JavaScript.
